@@ -4,6 +4,27 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("First commit on all branches: dev, staging & prod.");
 
+        Operation operation = null;
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         //Design calculator
         //RLO-1111: Setup framework (classes, interfaces)
         //RLO-2222: Add add functionality
