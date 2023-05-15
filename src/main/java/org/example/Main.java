@@ -7,24 +7,6 @@ public class Main {
         Operation operation = null;
 
 
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         //Design calculator
         //RLO-1111: Setup framework (classes, interfaces)
         //RLO-2222: Add add functionality
@@ -39,5 +21,10 @@ public class Main {
         //        staging -> RLO-5555 -> push RLO-5555 -> merge develop -> merge staging
 
 
+    }
+
+    //This is a method coded on branch 'one'
+    public void onBranchOne() {
+        System.out.println("Coming in from Branch 'one'");
     }
 }
